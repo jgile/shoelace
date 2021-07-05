@@ -4,7 +4,7 @@ import { classMap } from 'lit-html/directives/class-map';
 import { ifDefined } from 'lit-html/directives/if-defined';
 import { event, EventEmitter, watch } from '../../internal/decorators';
 import { getLabelledBy, renderFormControl } from '../../internal/form-control';
-import { getTextContent } from '../../internal/slot';
+import {getInnerHTML} from '../../internal/slot';
 import { hasSlot } from '../../internal/slot';
 import type SlDropdown from '../dropdown/dropdown';
 import type SlIconButton from '../icon-button/icon-button';
@@ -156,7 +156,7 @@ export default class SlSelect extends LitElement {
 
   getItemLabel(item: SlMenuItem) {
     const slot = item.shadowRoot!.querySelector('slot:not([name])') as HTMLSlotElement;
-    return getTextContent(slot);
+    return getInnerHTML(slot);
   }
 
   getItems() {
