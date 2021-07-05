@@ -1,6 +1,6 @@
 import {
   tab_panel_default
-} from "../../chunks/chunk.FKIUVSG2.js";
+} from "../../chunks/chunk.OQVBZOGL.js";
 import "../../chunks/chunk.5PIDMFOE.js";
 import "../../chunks/chunk.IHGPZX35.js";
 export {

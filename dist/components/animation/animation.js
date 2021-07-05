@@ -1,6 +1,6 @@
 import {
   animation_default
-} from "../../chunks/chunk.YHO2ZMA7.js";
+} from "../../chunks/chunk.5DKM7ECA.js";
 import "../../chunks/chunk.ZRVM725B.js";
 import "../../chunks/chunk.PB3IMZAH.js";
 import "../../chunks/chunk.5PIDMFOE.js";

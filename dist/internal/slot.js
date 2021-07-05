@@ -1,5 +1,5 @@
 export function getInnerHTML(slot) {
-    const nodes = slot.assignedNodes({ flatten: true });
+    const nodes = slot ? slot.assignedNodes({ flatten: true }) : [];
     let html = '';
     [...nodes].map(node => {
         if (node.nodeType === Node.ELEMENT_NODE) {
