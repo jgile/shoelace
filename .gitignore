@@ -1,6 +1,5 @@
 .DS_Store
 .cache
 docs/dist
-dist
 examples
 node_modules
