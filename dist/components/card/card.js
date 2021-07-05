@@ -1,6 +1,6 @@
 import {
   card_default
-} from "../../chunks/chunk.C75OS6LG.js";
+} from "../../chunks/chunk.4FDXLT7Q.js";
 import "../../chunks/chunk.WBQ62GLO.js";
 import "../../chunks/chunk.YXKHB4AC.js";
 import "../../chunks/chunk.VIWFLAGR.js";

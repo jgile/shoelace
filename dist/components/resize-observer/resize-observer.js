@@ -1,6 +1,6 @@
 import {
   resize_observer_default
-} from "../../chunks/chunk.RROFB2AK.js";
+} from "../../chunks/chunk.XYYUH5LS.js";
 import "../../chunks/chunk.PB3IMZAH.js";
 import "../../chunks/chunk.5PIDMFOE.js";
 import "../../chunks/chunk.IHGPZX35.js";

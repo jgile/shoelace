@@ -3,7 +3,7 @@
 // HTML as a string. This is useful because we can't use slot.innerHTML as an alternative.
 //
 export function getInnerHTML(slot: HTMLSlotElement): string {
-  const nodes = slot.assignedNodes({ flatten: true });
+  const nodes = slot ? slot.assignedNodes({ flatten: true }) : [];
   let html = '';
 
   [...nodes].map(node => {

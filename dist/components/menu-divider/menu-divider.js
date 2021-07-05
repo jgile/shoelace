@@ -1,6 +1,6 @@
 import {
   menu_divider_default
-} from "../../chunks/chunk.NTXT2ISV.js";
+} from "../../chunks/chunk.CVIMRNCG.js";
 import "../../chunks/chunk.5PIDMFOE.js";
 import "../../chunks/chunk.IHGPZX35.js";
 export {

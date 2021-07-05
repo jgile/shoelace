@@ -1,6 +1,6 @@
 import {
   responsive_media_default
-} from "../../chunks/chunk.CKTINFCM.js";
+} from "../../chunks/chunk.UFKHUIGS.js";
 import "../../chunks/chunk.YXKHB4AC.js";
 import "../../chunks/chunk.VIWFLAGR.js";
 import "../../chunks/chunk.5PIDMFOE.js";
